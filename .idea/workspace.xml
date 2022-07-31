@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660b6c9a-9f70-4e1e-89fb-f9b9432b4a18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/controller/HoaDonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/DSMatHangImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/HoaDonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/HopDongTraGopImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/KhachHangImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/MatHangImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/NhanVienImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/company_invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teacherhung.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/DSMatHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/DSMatHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/DoiTac.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/DoiTac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/HoaDon.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/HoaDon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/HopDongTraGop.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/HopDongTraGop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/KhachHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/KhachHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/MatHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/MatHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/NhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/entity/NhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/DSMatHangRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/DSMatHangRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/DoiTacRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/DoiTacRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/HoaDonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/HoaDonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/HopDongTraGopRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/HopDongTraGopRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/KhachHangRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/KhachHangRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/MạtHangRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/repository/MatHangRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/DSMatHangService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/DSMatHangService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/HoaDonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/HoaDonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/HopDongTraGopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/HopDongTraGopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/KhachHangService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/KhachHangService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/MatHangService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/MatHangService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/NhanVienService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/NhanVienService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/DoiTacImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/hungteacher/week/demo/service/implService/DoiTacImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="C:\Users\DELL\.m2\repository" />
+        <option name="mavenHome" value="G:/tools/apache-maven-3.8.4" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="C:\Users\DELL\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="291YMTEUWB9KI3CdhvTTgNpL6en" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.4682081" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660b6c9a-9f70-4e1e-89fb-f9b9432b4a18" name="Changes" comment="" />
+      <created>1652282020876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652282020876</updated>
+      <workItem from="1652282024484" duration="775000" />
+      <workItem from="1659229843030" duration="287000" />
+      <workItem from="1659230135952" duration="136000" />
+      <workItem from="1659230309494" duration="128000" />
+      <workItem from="1659230444398" duration="58000" />
+      <workItem from="1659230513676" duration="62000" />
+      <workItem from="1659230613895" duration="89000" />
+      <workItem from="1659230743000" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
